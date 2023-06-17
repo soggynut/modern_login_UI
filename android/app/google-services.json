@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452684227250",
+    "project_id": "modernlogin-c12d8",
+    "storage_bucket": "modernlogin-c12d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452684227250:android:7cd0ab2f0507cc1f781fab",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452684227250-pknplcsrscs106nhscto1qbqf55giffa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjEvoYPKjLqko009t_gGwgOzZ4sMUuUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452684227250-pknplcsrscs106nhscto1qbqf55giffa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
